@@ -5,7 +5,7 @@ public class Product{
 	private int productId;
 	private String proName;
 	private double price;
-	//hai
+	//Srinu Babu
 	 
 	public void setProductId(int productId)
 	{
