@@ -5,6 +5,7 @@ public class Product{
 	private int productId;
 	private String proName;
 	private double price;
+	//hai
 	 
 	public void setProductId(int productId)
 	{
